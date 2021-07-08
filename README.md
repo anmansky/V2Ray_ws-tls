@@ -6,5 +6,5 @@
 ### Installation / update mode (H2 and WS versions have been merged)
 Vmess+websocket+TLS+Nginx+Website
 ```
-wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/anmansky/V2Ray_ws-tls_bash_onekey_En/master/install.sh" && chmod +x install.sh && bash install.sh
+wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/anmansky/V2Ray_ws-tls/master/install.sh" && chmod +x install.sh && bash install.sh
 ```
